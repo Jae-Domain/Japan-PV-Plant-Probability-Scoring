@@ -13,8 +13,8 @@ As part of a 2024 collaboration with the National Institute of Informatics. Geos
 
 Contributors names and contact info
 
-Janelle Domantay [janelle9@illinois.edu]
-Christopher Chen 
+- Janelle Domantay [janelle9@illinois.edu]
+- Christopher Chen 
 
 ## Acknowledgments
 
